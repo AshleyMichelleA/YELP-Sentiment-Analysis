@@ -3,14 +3,10 @@
 
 # INSTALL AND IMPORT
 
-# In[17]:
-
-
 get_ipython().system('pip install torch torchvision torchaudio')
 
 
 # EXPLANATION OF EACH LIBRARY BELOW
-# 
 # transformers: To leverage transformers to our NLP model, easily import and install using BERT
 # 
 # requests: Makes a request to the site.
@@ -156,19 +152,7 @@ df
 df['review'].iloc[8]
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
